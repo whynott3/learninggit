@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick.
 read readme.txt can help you to learn git!
+Creating a new branch is quick AND simple.
